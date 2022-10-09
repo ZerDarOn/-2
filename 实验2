@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<h1>网页标题</h1>
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li><a href="/html">首页</a></li>
+				<li><a href="/css/">帮助</a></li>
+			</ul>	
+		</nav>
+		<h2>文章主标题</h2>
+		<h2>文章子标题</h2>
+		文章正文
+		<h4>评论标题</h4>
+		<article>
+			<p>评论正文</p>
+			<footer>
+				<p>
+				<article>版权所有:邓宏</article>
+				</p>
+			</footer>
+		</article>
+	</body>
+</html>
